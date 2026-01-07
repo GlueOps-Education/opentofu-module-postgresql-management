@@ -137,9 +137,7 @@ resource "random_password" "flyway" {
 
 ## Providers
 
-| Name | Version |
-|------|---------|
-| <a name="provider_postgresql"></a> [postgresql](#provider\_postgresql) | ~> 1.25.0 |
+No providers.
 
 ## Modules
 
@@ -147,16 +145,7 @@ No modules.
 
 ## Resources
 
-| Name | Type |
-|------|------|
-| [postgresql_database.guacamole_db](https://registry.terraform.io/providers/cyrilgdn/postgresql/latest/docs/resources/database) | resource |
-| [postgresql_default_privileges.guacamole_sequences](https://registry.terraform.io/providers/cyrilgdn/postgresql/latest/docs/resources/default_privileges) | resource |
-| [postgresql_default_privileges.guacamole_tables](https://registry.terraform.io/providers/cyrilgdn/postgresql/latest/docs/resources/default_privileges) | resource |
-| [postgresql_grant.flyway_connect](https://registry.terraform.io/providers/cyrilgdn/postgresql/latest/docs/resources/grant) | resource |
-| [postgresql_grant.flyway_schema_permissions](https://registry.terraform.io/providers/cyrilgdn/postgresql/latest/docs/resources/grant) | resource |
-| [postgresql_grant.guacamole_connect](https://registry.terraform.io/providers/cyrilgdn/postgresql/latest/docs/resources/grant) | resource |
-| [postgresql_role.flyway_guacamole](https://registry.terraform.io/providers/cyrilgdn/postgresql/latest/docs/resources/role) | resource |
-| [postgresql_role.guacamole](https://registry.terraform.io/providers/cyrilgdn/postgresql/latest/docs/resources/role) | resource |
+No resources.
 
 ## Inputs
 
